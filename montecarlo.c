@@ -1,8 +1,6 @@
 //========================================
 //Author: Salma Mahmoud
-//Course: CS 222
 //File Name: montecarlo.c
-//Last date of modification: 9/30/2015
 //=========================================
 
 #include <stdio.h>
